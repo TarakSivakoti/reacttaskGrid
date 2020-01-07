@@ -1,0 +1,10 @@
+.addCardButton{
+    width: 5rem;
+    align-self: center;
+    text-align: center;
+    display: inline-block;
+}
+.light{
+    width: 100px !important;
+    border: 1px solid lightgray !important;
+}
